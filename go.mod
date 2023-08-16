@@ -6,7 +6,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/meshplus/bitxhub v1.0.0-rc2
 	github.com/meshplus/bitxhub-kit v1.2.1-0.20230815115616-6bcc1727c22a
-	github.com/meshplus/bitxhub-model v1.1.2-0.20230714095350-d6ed4189c133
+	github.com/meshplus/bitxhub-model v1.1.2-0.20230717034022-af48720dde35
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.8.4
@@ -35,8 +35,10 @@ require (
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/gobuffalo/envy v1.7.0 // indirect
+	github.com/gobuffalo/logger v1.0.0 // indirect
 	github.com/gobuffalo/packd v1.0.0 // indirect
 	github.com/gobuffalo/packr v1.30.1 // indirect
+	github.com/gobuffalo/packr/v2 v2.5.1 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -64,6 +66,7 @@ require (
 	github.com/jbenet/go-temp-err-catcher v0.1.0 // indirect
 	github.com/jbenet/goprocess v0.1.4 // indirect
 	github.com/joho/godotenv v1.3.0 // indirect
+	github.com/karrick/godirwalk v1.10.12 // indirect
 	github.com/klauspost/compress v1.15.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.14 // indirect
 	github.com/koron/go-ssdp v0.0.3 // indirect
@@ -159,6 +162,7 @@ require (
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/term v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
