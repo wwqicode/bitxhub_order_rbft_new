@@ -186,7 +186,6 @@ require (
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
@@ -195,3 +194,13 @@ require (
 )
 
 replace github.com/cespare/xxhash/v2 => github.com/cespare/xxhash/v2 v2.2.0
+
+replace github.com/prometheus/client_golang => github.com/prometheus/client_golang v1.11.1
+
+replace github.com/prometheus/common => github.com/prometheus/common v0.26.0
+
+replace github.com/golang/protobuf => github.com/golang/protobuf v1.3.2
+
+replace google.golang.org/genproto => google.golang.org/genproto v0.0.0-20200218151345-dad8c97a84f5
+
+replace google.golang.org/grpc => google.golang.org/grpc v1.33.0
