@@ -176,7 +176,7 @@ require (
 
 replace github.com/cespare/xxhash/v2 => github.com/cespare/xxhash/v2 v2.2.0
 
-replace github.com/ultramesh/rbft => git.hyperchain.cn/ultramesh/rbft.git v0.1.5-0.20210508082646-8e9b5f09a0d4
+replace github.com/ultramesh/rbft => git.hyperchain.cn/ultramesh/rbft.git v0.1.5-0.20230825033916-013b58df58ff
 
 replace github.com/ultramesh/fancylogger => git.hyperchain.cn/ultramesh/fancylogger.git v0.1.0
 

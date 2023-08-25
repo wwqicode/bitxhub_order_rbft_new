@@ -29,8 +29,8 @@ dmitri.shuralyov.com/state v0.0.0-20180228185332-28bcc343414c/go.mod h1:0PRwlb0D
 git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGynbRyZ4dJvy6G277gSllfV2HJqblrnkyeyg=
 git.hyperchain.cn/ultramesh/fancylogger.git v0.1.0 h1:yNOtXnP9nalFcAaPHCNFNuQaHXN6IN8891VnrIy8+cA=
 git.hyperchain.cn/ultramesh/fancylogger.git v0.1.0/go.mod h1:y57KioUSXbiby6HHYCxrsYjIhmEk76o4XyHwjzMxims=
-git.hyperchain.cn/ultramesh/rbft.git v0.1.5-0.20210508082646-8e9b5f09a0d4 h1:p7m1mjDtlG9nIEyefYAC3TOgg934cxeVZyC7zs0BWvs=
-git.hyperchain.cn/ultramesh/rbft.git v0.1.5-0.20210508082646-8e9b5f09a0d4/go.mod h1:vWOqXglI78ww2i2g05UvCxoNPKyWalCEK8GCVGqwZqo=
+git.hyperchain.cn/ultramesh/rbft.git v0.1.5-0.20230825033916-013b58df58ff h1:sKnHBG2MePImMvy7jGVWe81A+ENj6O6tIqTy9wKe7Uo=
+git.hyperchain.cn/ultramesh/rbft.git v0.1.5-0.20230825033916-013b58df58ff/go.mod h1:vWOqXglI78ww2i2g05UvCxoNPKyWalCEK8GCVGqwZqo=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/AndreasBriese/bbloom v0.0.0-20190306092124-e2d15f34fcf9/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
