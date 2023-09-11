@@ -10,8 +10,8 @@ import (
 	"github.com/Rican7/retry"
 	"github.com/Rican7/retry/strategy"
 	"github.com/ethereum/go-ethereum/event"
-	"github.com/libp2p/go-libp2p-core/peer"
-	"github.com/libp2p/go-libp2p-core/protocol"
+	"github.com/libp2p/go-libp2p/core/peer"
+	"github.com/libp2p/go-libp2p/core/protocol"
 	"github.com/meshplus/bitxhub-model/pb"
 	"github.com/meshplus/bitxhub/internal/ledger"
 	"github.com/meshplus/bitxhub/internal/model/events"
@@ -80,7 +80,7 @@ func (swarm *Swarm) init() error {
 		multiAddrs[id] = node
 	}
 
-	tpt, err := libp2pcert.New(swarm.repo.Key.Libp2pPrivKey, swarm.repo.Certs)
+	tpt, err := libp2pcert.New(libp2pcert.ID, swarm.repo.Key.Libp2pPrivKey, swarm.repo.Certs)
 	if err != nil {
 		return fmt.Errorf("create transport: %w", err)
 	}

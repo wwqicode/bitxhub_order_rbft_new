@@ -2,7 +2,7 @@ package peermgr
 
 import (
 	"github.com/ethereum/go-ethereum/event"
-	"github.com/libp2p/go-libp2p-core/peer"
+	"github.com/libp2p/go-libp2p/core/peer"
 	"github.com/meshplus/bitxhub-model/pb"
 	"github.com/meshplus/bitxhub/internal/model/events"
 	network "github.com/meshplus/go-lightp2p"

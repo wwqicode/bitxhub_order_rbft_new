@@ -1,7 +1,7 @@
 package repo
 
 import (
-	"github.com/libp2p/go-libp2p-core/crypto"
+	"github.com/libp2p/go-libp2p/core/crypto"
 	crypto2 "github.com/meshplus/bitxhub-kit/crypto"
 	"github.com/meshplus/bitxhub-kit/crypto/asym"
 	libp2pcert "github.com/meshplus/go-libp2p-cert"
